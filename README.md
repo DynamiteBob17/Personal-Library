@@ -1,6 +1,7 @@
 # About
 - freeCodeCamp project solution on Backend Development/APIs and Quality Assurance 
 https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library
+- [live demo](https://clipchamp.com/watch/XqeDinH4iW8)
 
 ## How to use
 1. Create a **.env** or appropriate file and set up your environment similar to how it's set up in the **example.env** file in this repository
